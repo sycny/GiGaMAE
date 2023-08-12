@@ -1,5 +1,5 @@
-# G3RD
-PyTorch implementation for 'G3RD: Generalizable Generative Graph Representation Learning via Multi-Teacher Distillation'
+# GiGaMAE
+This repository hosts the code for our CIKM'23 paper 'GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction'
 ## Dependencies
 * torch 1.12.0+cu116 
 * torch-cluster 1.6.0 

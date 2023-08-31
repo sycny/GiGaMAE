@@ -1,5 +1,5 @@
 # GiGaMAE
-This repository hosts the code for our CIKM'23 long paper 'GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction.' by Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li, and Ninghao Liu.
+This repository hosts the code for our CIKM'23 long paper '[GiGaMAE: Generalizable Graph Masked Autoencoder via Collaborative Latent Space Reconstruction.](https://arxiv.org/abs/2308.09663)' by Yucheng Shi, Yushun Dong, Qiaoyu Tan, Jundong Li, and Ninghao Liu.
 
 ## Dependencies
 * torch 1.12.0+cu116 
